@@ -14,10 +14,10 @@ public class MusicPlayerScript : MonoBehaviour
         AudioSource.Play();
     }
 
-    void Awake()
+/*    void Awake()
     {
         DontDestroyOnLoad(transform.gameObject);
-    }
+    }*/
 
     // Update is called once per frame
     void Update()
