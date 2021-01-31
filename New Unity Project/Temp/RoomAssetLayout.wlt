@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS/Prefabs/Level/Rooms
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: /Users/raphael/Code/delivery/tek3/GJ/EpitechJam_0/New Unity Project
+  m_LastProjectPath: /Users/thomascontini/Documents/delivery/teck_3/Game jam/GlobalGameJamGame/EpitechJam_0/New Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
